@@ -1,0 +1,186 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#fotoandtext {
+    max-width: 1400px;
+    height: 581px;
+    background-image: url("./images/image.svg");
+    margin: 156px;
+    background-size: contain;
+}
+
+#fotointext {
+    color: aliceblue;
+    font-size: 44px;
+    padding: 15px;
+}
+
+#conteiner {
+    text-align: center;
+    background-color: #EBF8FE;
+    max-width: 1121px;
+    text-align: center;
+    border-radius: 24px;
+    margin: 0 auto;
+}
+
+#conteinerbox {
+    padding: 40px 32px;
+}
+
+#textinconteiner {
+    font-size: 64px;
+    color: black;
+}
+
+#paragraf {
+    color: #535862;
+    font-size: 32px;
+    margin-top: 24px;
+}
+
+#infut {
+    width: 488px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+#infutdiv {
+    display: inline-block;
+
+}
+
+#button {
+    margin-left: 25px;
+    background-color: #007CB8;
+    padding: 12px 20px;
+    border-radius: 8px;
+    margin-top: 15px;
+
+}
+
+#inbutton {
+    color: #EBF8FE;
+}
+
+
+#infutemale {
+    max-width: 345px;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+#care {
+    color: #535862;
+    text-align: left;
+    margin-top: 8px;
+}
+
+#lasconteiner {
+    max-width: 546px;
+    width: 100%;
+    background-color: #EBF8FE;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+#conteinerlast {
+    margin-left: 40px;
+    margin-top: 40px;
+
+}
+
+#last-conteiner-text {
+    color: #181D27;
+    font-size: 40px;
+    margin-top: 72px;
+    text-align: left;
+
+}
+
+#fuull {
+    margin-top: 12px;
+    text-align: left;
+}
+
+#placeholdertext {
+    max-width: 345px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 12px;
+    margin-top: 12px;
+    border-radius: 8px;
+}
+
+#emailinfut {
+    margin-top: 24px;
+}
+
+#placeholderplease {
+    max-width: 345px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 12px;
+    margin-top: 12px;
+    border-radius: 8px
+}
+
+#boxsesyou {
+    margin-left: 40px;
+    margin-top: 21px;
+    margin-bottom: 35px;
+
+}
+
+#xould {
+    color: #1B003D;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+#infutradio {
+    margin-top: 12px;
+}
+
+#radio {
+    margin-top: 12px;
+}
+
+#radiotype {
+    margin-top: 12px;
+
+}
+
+#finish {
+    margin-top: 21px;
+}
+
+#and {
+    color: #1B003D;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+#frameworks {
+    margin-top: 12px;
+}
+
+#label {
+    display: inline-block;
+}
+
+#chekboxtoo {
+    margin-top: 12px;
+}
+
+#java {
+    margin-top: 12px;
+}
+
+#Python {
+    margin-top: 12px;
+}
